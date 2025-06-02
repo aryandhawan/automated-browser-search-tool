@@ -17,4 +17,7 @@ A simple yet powerful Python script that uses Selenium to automate Google search
 - Selenium WebDriver
 - Chrome Browser
 
-  if anybody can enhance this in terms of UI or AI integrations with LLMS I would love to collaborate with them !
+- ## Note:
+- Google may show a reCAPTCHA on some runs. Manual verification might be needed — this is a natural limitation when automating real-world browsers with Selenium
+
+  if anybody can enhance this in terms of UI or AI integrations with LLMS, I would love to collaborate with them!
